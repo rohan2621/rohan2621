@@ -25,7 +25,9 @@ Focused on creating **secure + smart applications** that solve practical problem
 - Real-world healthcare application  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/rohan2621/X-ray-Image-Classification/main/xray_normal.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/rohan2621/X-ray-Image-Classification/main/xray_pneumonia.png" width="250"/><br>
+  <em>Left: Normal | Right: Pneumonia Prediction</em>
 </p>
 
 ---
